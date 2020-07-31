@@ -10,7 +10,7 @@ Exploring designs and some complex layout in SwiftUi
 
 I'll periodically release set of UIs that could come handy in your project in this same repository. 
 
-For learning purpose this UIs are not linked together, components only nothing like interactions eventhough is named interactive view :).
+For learning purpose this UIs are not linked together, components only, nothing like interactions eventhough is named interactive view :).
 
 Will cover device responsiveness and other functionalities in the future. This is what we have for now!!.
 
