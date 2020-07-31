@@ -4,9 +4,9 @@ Set of SwiftUi Designs: Feel free to use them :)
 
 Exploring designs and some complex layout in SwiftUi
 
-![Image](Images/image1.png?)
+![Image](Image/image1.png?)
 
-![Image](Images/image2.png?)
+![Image](Image/image2.png?)
 
 I'll periodically release set of UIs that could come handy in your project in this same repository. 
 
