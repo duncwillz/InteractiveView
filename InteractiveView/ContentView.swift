@@ -13,9 +13,9 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             NeumorphicUI()
-//NeumorphicUI()
-//FinTechHome()
-//           NativeComponents()
+            //NeumorphicUI()
+            //FinTechHome()
+            //NativeComponents()
         }
     }
 }

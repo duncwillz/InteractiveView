@@ -93,6 +93,7 @@
 		1F3430D4242EB077009268B8 = {
 			isa = PBXGroup;
 			children = (
+				1F95301A24D4CFFB00B25CAF /* Image */,
 				1F3430DF242EB077009268B8 /* InteractiveView */,
 				1F3430F6242EB07A009268B8 /* InteractiveViewTests */,
 				1F343101242EB07A009268B8 /* InteractiveViewUITests */,
@@ -155,6 +156,13 @@
 				1F343104242EB07A009268B8 /* Info.plist */,
 			);
 			path = InteractiveViewUITests;
+			sourceTree = "<group>";
+		};
+		1F95301A24D4CFFB00B25CAF /* Image */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Image;
 			sourceTree = "<group>";
 		};
 		1FF935C72437CE440009282C /* NativeCotents */ = {
